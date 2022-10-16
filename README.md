@@ -1,2 +1,2 @@
 # test-git
-learning git
+Learning Git
